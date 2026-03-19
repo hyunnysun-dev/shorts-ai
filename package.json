@@ -1,0 +1,11 @@
+{
+  "name": "shorts-ai",
+  "version": "1.0.0",
+  "description": "유튜브 쇼츠 자동화 생성기",
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
